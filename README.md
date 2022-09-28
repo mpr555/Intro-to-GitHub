@@ -10,6 +10,8 @@
 
 ![Intro to GitHub Main](https://github.com/mpr555/Intro-to-GitHub/actions/workflows/welcome.yml/badge.svg)
 
+[![Intro to GitHub Main](https://github.com/mpr555/Intro-to-GitHub/actions/workflows/welcome.yml/badge.svg?branch=main)](https://github.com/mpr555/Intro-to-GitHub/actions/workflows/welcome.yml)
+
 _Create a GitHub Action and use it in a workflow._
 
 <!--
