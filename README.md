@@ -8,7 +8,8 @@
 # Hello GitHub Actions
 ## This has been edited by MPR
 
-![example workflow](https://github.com/mpr555/Intro-to-GitHub/docs/actions/workflows/welcome.yml/badge.svg)
+![example workflow](https://github.com/mpr555/Intro-to-GitHub/actions/workflows/welcome.yml/badge.svg)
+[![Step 4, Merge your pull request](https://github.com/mpr555/Intro-to-GitHub/actions/workflows/4-merge-your-pull-request.yml/badge.svg)](https://github.com/mpr555/Intro-to-GitHub/actions/workflows/4-merge-your-pull-request.yml)
 
 _Create a GitHub Action and use it in a workflow._
 
