@@ -8,7 +8,7 @@
 # Hello GitHub Actions
 ## This has been edited by MPR
 
-![example workflow](https://github.com/mpr555/Intro-to-GitHub/blob/main/.github/workflows/welcome.yml/badge.svg)
+![example workflow](https://github.com/mpr555/Intro-to-GitHub/docs/actions/workflows/welcome.yml/badge.svg)
 
 _Create a GitHub Action and use it in a workflow._
 
